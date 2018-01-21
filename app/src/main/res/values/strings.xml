@@ -4,4 +4,9 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="navbaremail">firelord.xda@lineageos.org</string>
+    <string name="AppIntroTitle">Welcome to Wallord</string>
+    <string name="AppIntroPageOneTitle">Images</string>
+    <string name="AppIntroPageTwoTitle">Permission</string>
+    <string name="AppIntroPageOneInfo">These wallpapers are designed by me, from scratch!</string>
+    <string name="AppIntroPageTwoInfo">This app needs storage access to save wallpapers, so please allow it storage permission.</string>
 </resources>
