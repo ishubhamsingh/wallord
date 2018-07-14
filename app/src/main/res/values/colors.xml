@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
-
-    <color name="blue_background">#1976D2</color>
-    <color name="teal_background">#00796B</color>
-    <color name="orange_background">#F57C00</color>
-    <color name="red_background">#D32F2F</color>
-    <color name="purple_background">#7B1FA2</color>
+    <color name="primaryColor">#f50057</color>
+    <color name="primaryLightColor">#ff5983</color>
+    <color name="primaryDarkColor">#bb002f</color>
+    <color name="secondaryColor">#3d5afe</color>
+    <color name="secondaryLightColor">#8187ff</color>
+    <color name="secondaryDarkColor">#0031ca</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#ffffff</color>
+    <color name="btn1Start">#FF512F</color>
+    <color name="btn1End">#DD2476</color>
+    <color name="btn2Start">#ffb347</color>
+    <color name="btn2End">#ffcc33</color>
+    <color name="btn3Start">#00b09b</color>
+    <color name="btn3End">#96c93d</color>
+    <color name="btn4Start">#0cebeb</color>
+    <color name="btn4End">#29ffc6</color>
+    <color name="btn5Start">#ff9966</color>
+    <color name="btn5End">#ff5e62</color>
+    <color name="btn6Start">#C33764</color>
+    <color name="btn6End">#1D2671</color>
 </resources>
