@@ -1,4 +1,7 @@
 language: android
+jdk:
+ - oraclejdk8
+
 android:
   components:
     # needs to be first to get new package versions
@@ -15,16 +18,16 @@ android:
     - extra-android-m2repository
     - addon-google_apis-google-27
     
-    # AS script
-    script:
-      - ./gradlew clean assembleDebug
+# AS script
+script:
+  - ./gradlew clean assembleDebug 
     
-    # Cache
-    cache:
-      directories:
-        - $HOME/.m2
-        - $HOME/.gradle
-        
-    # Notification
-    notifications:
-      email: false
+ # Cache
+cache:
+  directories:
+    - $HOME/.m2
+    - $HOME/.gradle
+
+# Notification
+notifications:
+  email: false
