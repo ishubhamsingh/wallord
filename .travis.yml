@@ -1,7 +1,7 @@
+sudo: false
+install: true
 language: android
-jdk:
- - oraclejdk8
-
+jdk: oraclejdk8
 android:
   components:
     # needs to be first to get new package versions
