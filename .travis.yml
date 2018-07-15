@@ -33,3 +33,6 @@ cache:
 # Notification
 notifications:
   email: false
+
+before_install:
+  - 'yes | sdkmanager "platforms;android-27"'
